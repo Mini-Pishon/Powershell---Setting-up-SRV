@@ -86,10 +86,6 @@ if ($RestartConfirmation.ToUpper() -eq 'Y') {
 - PowerShell 5.0 or later.
 - Administrator privileges.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 Feel free to customize the script or README as needed for your environment. If you encounter issues, please raise them in the repository's Issues section.
